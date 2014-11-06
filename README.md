@@ -1,6 +1,5 @@
-# One Month Rails
+# Personal Control Center
 
-This is the pinteresting sample application for
-["*One Month Rails*"](http://onemonthrails.com)
+This app will change peoples lives by encouraging positive habits.
 
 by [Anthony Galli](http://www.anthonygalli.com)
